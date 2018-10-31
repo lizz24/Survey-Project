@@ -13,7 +13,7 @@ Focus on what's really important. What data do you need to make your argument, l
 **It's important to note that drop-offs happen more with longer surveys. What would your boss prefer: A nice and thorough survey with only 15 completed responses, or a shorter, tighter survey with 200 responses? Probably the latter.** 
 
 If your survey is on the longer side, guide your respondents through the sections. Let them know what you're going to ask them. Give them cues when they're almost done ("In this last section, we're going to ask you …"). If your survey tool allows it (Google Forms does), show them a progress bar so they know how much of the survey is left. **And always thank them for taking the time to give feedback.** 
-:+1
+:+1:
 
 ## REFERENCE
  cited from [HUBTPOT] https://blog.hubspot.com/service/create-a-survey
