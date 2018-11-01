@@ -78,6 +78,7 @@ hr {
   width: 40%;
   vertical-align: top;
   margin-top: 18px;
+  padding: 5px;
 }
 
 .input-tab {
@@ -120,8 +121,6 @@ input {
 
 
 
-
-}
 .btn {
   width: 100%;
   text-align: center;
@@ -129,7 +128,7 @@ input {
 }
 
 button {
-  background-color: rgba(255,217,15,0.28);
+  background-color: green;
   border-radius: 4px;
   color: white;
   font-size: 1em;
@@ -147,20 +146,13 @@ footer {
   text-align: center;
   font-size: 17px;
   margin: 20px;
-}
-
-footer a {
-  color: #f39c12;
+  background-color: #ff00ddab;
   position: relative;
   text-decoration: none;
   font-weight: bold;
 }
 
 
-footer p {
-  margin: 1.5em;
-  font-size: 0.95em;
-}
 
 @media only screen and (max-width: 768px) {
   body{
@@ -179,7 +171,7 @@ footer p {
   .input-tab {
     width: 100%;
     float: left;
-    margin-left: -10px;
+    
   }
   .input-field {
     width: 100%;
